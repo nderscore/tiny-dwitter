@@ -6,7 +6,7 @@ A tweet-sized clone of [lionleaf](https://github.com/lionleaf)'s [dwitter](https
 <body onload="setInterval('t=new Date/1e3;R=(...z)=>`rgba(`+z;x=c.getContext`2d`;with(Math)eval($.value)',16)"><input id=$><p><canvas id=c>
 ```
 
-Try it out [here](http://cdn.rawgit.com/nderscore/tiny-dwitter/32d760c4/index.html)!
+### Try it out [here](http://cdn.rawgit.com/nderscore/tiny-dwitter/32d760c4/index.html)!
 
 ### Instructions
 
@@ -19,7 +19,7 @@ Try it out [here](http://cdn.rawgit.com/nderscore/tiny-dwitter/32d760c4/index.ht
 * `c` - A 300x150 canvas.
 * `x` - A 2D context for that canvas. 
 
-### Differences From Dwitter
+### Compromises/Differences From Dwitter
 
  * The canvas is the default size of 300 x 150 instead of 1920 x 1080.
  * `requestAnimationFrame` is not used, instead an approximation of 60-ish fps is achieved with a 16ms interval.
