@@ -6,7 +6,7 @@ A tweet-sized clone of [lionleaf](https://github.com/lionleaf)'s [dwitter](https
 <body onload="setInterval('t=new Date/1e3;R=(...z)=>`rgba(`+z;x=c.getContext`2d`;with(Math)eval($.value)',16)"><input id=$><p><canvas id=c>
 ```
 
-Try it out [here](http://TBD)!
+Try it out [here](http://cdn.rawgit.com/nderscore/tiny-dwitter/32d760c4/index.html)!
 
 ### Instructions
 
